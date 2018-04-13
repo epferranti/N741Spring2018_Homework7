@@ -563,7 +563,7 @@ plot(gg_v2, xvar2 = xvar2, panel = TRUE, alpha = 0.4) +
   labs(y="Predicted MSC reading", x="")
 
 ```
-
+Link to HW: [my github link](https://github.com/epferranti/N741Spring2018_Homework7)
 
 ---
 
